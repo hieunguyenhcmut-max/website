@@ -1,0 +1,6 @@
+{
+  "name": "Cộng Đồng Tài Liệu Sinh Viên",
+  "description": "Nền tảng chia sẻ tài liệu học tập, chia sẻ kinh nghiệm, nhóm cộng đồng Zalo và các sản phẩm affiliate hữu ích dành cho sinh viên, tích hợp hệ thống thanh toán tự động VietQR và trang quản lý Admin trực quan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
